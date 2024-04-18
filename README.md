@@ -9,6 +9,6 @@ Another important point to bear in mind is that the first bit of the first byte 
  
 Full code walkthrough in this video:
  
-[![ESP32 Find and Change Wifi Mac Address](https://img.youtube.com/vi/EW8Ft5zJi68 /0.jpg)](https://www.youtube.com/watch?v=EW8Ft5zJi68)
+[![ESP32 Find and Change Wifi Mac Address](https://img.youtube.com/vi/EW8Ft5zJi68/0.jpg)](https://www.youtube.com/watch?v=EW8Ft5zJi68)
  
 Click on the image above to watch the video or go here: https://youtu.be/EW8Ft5zJi68
